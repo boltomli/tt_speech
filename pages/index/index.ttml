@@ -1,0 +1,10 @@
+<view class="intro">Welcome to Mini Program</view>
+
+<view class="container">
+  <view class="model">
+    <button bindtap="record">录音转写</button>
+    <text>{{recorded}}</text>
+    <progress percent={{progress}} color="" stroke-width="6" active show-info />
+    <text>{{transcribed}}</text>
+  </view>
+</view>

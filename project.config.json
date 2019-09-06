@@ -1,0 +1,16 @@
+{
+	"setting": {
+		"urlCheck": false,
+		"es6": true,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true
+	},
+	"appid": "cli_9dfa64b238b6d10b",
+	"projectname": "testtt",
+	"permission": {
+		"scope.record": {
+			"desc": "转写声音需要录音权限"
+		}
+	}
+}
